@@ -15,19 +15,21 @@
                                 <img class="is-rounded" src="{{site.author-image}}">
                             </figure>
                         </div>
-                            <!-- I don't want this section
+                        <!-- I don't want this section
                             <div class="column is-marginless">
-                                <h5 class="has-text-grey-lighter">{{site.author-name}}</h5>
-                                    <div class="content has-text-grey">
-                                        <p>{{site.author-about | truncate: 75 }}</p> 
-                                    </div>
-                            </div>-->
+                            <h5 class="has-text-grey-lighter">{{site.author-name}}</h5>
+                              <div class="content has-text-grey">
+                                <p>{{site.author-about | truncate: 75 }}</p> 
+                              </div>
+                            </div>  -->
+                       
                     </div>
                 </a>
             </div>
+        </div>
 
             <!--Link Section-->
-            <!--I don't want it actually
+    <!-- I don't want it actually
             <div class="column has-text-white">
                 <h3>More Links</h3>
                 {% for sitepage in site.html_pages offset: 4 %}
@@ -42,8 +44,9 @@
                 </li>
             </div>-->
 
+
             <!--Blog-post Section-->
-            <!--also don't want
+    <!-- also don't want
             <div class="column has-text-white">
                 <h3>Recent Posts</h3>
                 {% for post in site.posts offset: 0 limit:3 %}
@@ -54,20 +57,10 @@
             </div>-->
         </div>
     </div>
+
     <div class="has-background-black has-text-centered has-text-black" id="credits">
-        <i class="far fa-copyright"></i> {{ "now" | date: "%Y" }}
-        <!--<a href="https://github.com/thedevslot/WhatATheme" target="_blank" rel="noopener noreferrer">
-            WhatATheme
-            </a> 
-            - A Theme made with 
-            <i class="fas fa-heart has-text-danger"></i> 
-            by 
-            <a href="https://www.twitter.com/thedevslot" target="_blank" rel="noopener noreferrer">
-                TheDevsLot
-            </a> 
-                Powered by 
-            <a href="https://jekyllrb.com/" target="_blank">
-                Jekyll
-            </a>-->
+        <i class="far fa-copyright"></i> {{ "now" | date: "%Y" }} | 
+        <!--<a href="https://github.com/thedevslot/WhatATheme" target="_blank" rel="noopener noreferrer">WhatATheme</a> - A Theme made with <i class="fas fa-heart has-text-danger"></i> by <a href="https://www.twitter.com/thedevslot" target="_blank" rel="noopener noreferrer">TheDevsLot</a> Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
+    -->
     </div>
 </footer>
