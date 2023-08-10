@@ -1,6 +1,6 @@
-- name: First Project
+- name: Amenities Comparison Document
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
-  link:
+  link: https://github.com/WWTenantCommunity/wwtenantcommunity.github.io/blob/5751844ac7725743effe93341de41948fe0b020b/docs/AmenitiesComparisons.pdf
   description: johnny joey
 - name: Second Project
   link:
