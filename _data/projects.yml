@@ -2,19 +2,13 @@
   image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
   link: docs/AmenitiesComparisons.pdf
   description: 
-- name: Second Project
-  link:
+  
+- name: Reviews of WW of LJ
+  link: docs/Reviews of WWLJ.pdf
   image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
-  description: tommy marky
+  description: This was created 
+  
 - name: Third Project
-  link:
+  link: https://www.notion.so/tenantcommunityofww/Reviews-of-WW-on-the-Web-852c8b3695d94b71a3f97ee52f1f3f2a
   image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
-  description: dd cj
-- name: Fourth Project
-  link:
-  image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg
-  description: elvis
-- name: Fifth Project
-  link:
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description: the ramones
+  description: 
