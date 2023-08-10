@@ -9,7 +9,7 @@ baseurl:
 # Title of the Site
 title: WW Tenant Community Council Site
 # Description of the Site
-description: website for the WWTC mostly for doc repo n stuff
+description: website for the WWTC. mostly for doc repo n stuff.
 # URL of Image of the Site
 site-image: /assets/commisstren.png
 # Keywords of the Site
@@ -24,18 +24,18 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # If you don't want to use any icon, you can leave them blank.
 email: wwtenantcommunity@gmail.com
 facebook_username: Wildwoods of Lake Johnson (Tenant Union Council)
-#twitter_username: thedevslot
-#instagram_username: thedevslot
-#linkedin_username: thedevslot
-github_username:  thedevslot
-#youtube_channel_id: UCk_93NXYP-U_AOB5GfWlOow
+#twitter_username: 
+#instagram_username: 
+#linkedin_username: 
+github_username:  
+#youtube_channel_id: 
 #reddit_username: /
 #behance_username: /
 #dribbble_username: /
 #spotify_username: /
 
 # Google Analytics
-#google-analytics: UA-163806439-1
+#google-analytics:
 
 # Disqus
 #disqus-shortname: thedevslot
