@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'wwtenantcommunity.github.io'
+url: wwtenantcommunity.github.io
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: wwtenantcommunity.github.io
 
 # Title of the Site
 title: WW Tenant Community Council Site
@@ -38,7 +38,7 @@ github_username:
 #google-analytics:
 
 # Disqus
-#disqus-shortname: thedevslot
+#disqus-shortname: 
 
 # Name of the Author
 author-name: TheDevsLot (theme), DallHoff (other crap)
